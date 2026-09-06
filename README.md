@@ -66,7 +66,7 @@ I'm a passionate **Full Stack Developer** with expertise in building web applica
 
 **Tech Stack**: Node.js | Express.js | bcryptjs | HTML5 | CSS3 | JavaScript
 
-**[Repository](https://github.com/Chuan-dev086/Password-Hasher)** | **[Live Demo](#)** (Coming Soon)
+**[Repository](https://github.com/Chuan-dev086/Password-Hasher)**    <-- CLick Here To View Repo 
 
 **Key Features**:
 
@@ -84,7 +84,8 @@ I'm a passionate **Full Stack Developer** with expertise in building web applica
 
 **Tech Stack**: Python | tkinter | NumPy
 
-**[Repository](https://github.com/Chuan-dev086/Housing-Loan-Calculator)**
+**[Repository](https://github.com/Chuan-dev086/Housing-Loan-Calculator)**  <-- CLick Here To View Repo 
+
 
 **Key Features**:
 
@@ -102,7 +103,8 @@ I'm a passionate **Full Stack Developer** with expertise in building web applica
 
 **Tech Stack**: Node.js | Express | React | Vite | Ollama (Local LLM)
 
-**[Repository](https://github.com/Chuan-dev086/Local-AI-Chat)** | **[Live Demo](#)** (Self-hosted)
+**[Repository](https://github.com/Chuan-dev086/Local-AI-Chat)**   <-- CLick Here To View Repo 
+
 
 **Key Features**:
 
