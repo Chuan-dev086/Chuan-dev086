@@ -1,16 +1,188 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ooi Han Chuan
 
-<!--
-**Chuan-dev086/Chuan-dev086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate **Full Stack Developer** with expertise in building web applications from frontend to backend. I love turning ideas into elegant, functional solutions and constantly exploring new technologies to stay ahead of the curve.
+
+- 🔭 Currently working on **Local AI Chat** — A full-stack chatbot powered by Ollama + qwen2.5:7b
+- 🌱 Learning **REST API & Express.js** to build robust server-side applications
+- 💡 Interested in **Full Stack Development, Backend Architecture, and Open Source**
+- 📫 Reach me at **choon3406@gmail.com**
+- ⚡ Fun fact: I'm a night owl developer 🦉 (best ideas come at midnight)
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</div>
+
+### Backend
+
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</div>
+
+### Database & Tools
+
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chuan-dev086&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuan-dev086&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+### 1. 🔐 Password Hasher & Verifier
+
+**Description**: A full-stack password hashing and verification tool with secure bcrypt encryption and user-friendly interface
+
+**Tech Stack**: Node.js | Express.js | bcryptjs | HTML5 | CSS3 | JavaScript
+
+**[Repository](https://github.com/Chuan-dev086/Password-Hasher)** | **[Live Demo](#)** (Coming Soon)
+
+**Key Features**:
+
+- ✨ Industry-standard bcrypt hashing with Salt Rounds = 10
+- 🔒 Secure server-side verification without storing plain text passwords
+- 📋 Input sanitization to prevent whitespace errors
+- 💾 One-click copy feature for seamless workflow
+- 🎨 Clean and intuitive user interface
+
+---
+
+### 2. 🏠 Simple Housing Loan Calculator
+
+**Description**: A Python-based housing loan calculator supporting two repayment methods with intuitive GUI interface
+
+**Tech Stack**: Python | tkinter | NumPy
+
+**[Repository](https://github.com/Chuan-dev086/Housing-Loan-Calculator)**
+
+**Key Features**:
+
+- 💰 Equal principal and interest repayment (等额本息)
+- 📊 Equal principal repayment calculation (等额本金)
+- 🎯 Quick calculation of monthly payment, total payment, and total interest
+- 🔄 Dropdown menu for easy repayment method selection
+- 📈 Real-time calculation results
+
+---
+
+### 3. 🤖 Local AI Chat
+
+**Description**: A full-stack AI chatbot powered by Ollama + qwen2.5:7b with session-based memory and real-time inference. Completely offline, no external API calls required.
+
+**Tech Stack**: Node.js | Express | React | Vite | Ollama (Local LLM)
+
+**[Repository](https://github.com/Chuan-dev086/Local-AI-Chat)** | **[Live Demo](#)** (Self-hosted)
+
+**Key Features**:
+
+- 🧠 Multi-turn conversations with session-based memory
+- ⚡ Completely offline — no external API calls
+- 🎯 Real-time feedback with loading indicators
+- 🔄 One-click "New Chat" for fresh conversations
+- 📦 Simple setup, ready to use in minutes
+- 🔌 Extensible architecture for custom models
+
+---
+
+> 👀 **[View all projects on GitHub →](https://github.com/Chuan-dev086)**
+
+---
+
+## 🎯 What I Can Help With
+
+- ✅ **Frontend Development** — Building responsive UIs with React, HTML, CSS, Bootstrap
+- ✅ **Backend Development** — Server-side logic with Node.js, Express, and Python
+- ✅ **Full Stack Solutions** — End-to-end application development
+- ✅ **Database Design** — MySQL, MongoDB, data modeling and optimization
+- ✅ **Web Optimization** — Performance tuning and best practices
+- ✅ **RESTful API Design** — Building scalable and maintainable APIs
+
+---
+
+## 💬 Let's Collaborate!
+
+I'm always open to interesting projects and collaboration opportunities. Whether you have a project idea, need technical advice, or just want to chat about web development, feel free to reach out!
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/han-chuan-ooi-bb93023a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ooihanchuan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/601123816083" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:choon3406@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+## 📚 My Skills Summary
+
+| Category     | Skills                                           |
+| ------------ | ------------------------------------------------ |
+| **Frontend** | React, HTML5, CSS3, Bootstrap, Responsive Design |
+| **Backend**  | Node.js, Express.js, Python, PHP, REST APIs      |
+| **Database** | MySQL, MongoDB, Data Modeling                    |
+| **Tools**    | Git, VS Code, Postman, Ollama                    |
+| **Concepts** | Full Stack Development, API Design, Web Security |
+
+---
+
+## 🎓 Currently Learning
+
+- Deep dive into **Express.js** architecture and best practices
+- Advanced **REST API** design patterns
+- Backend performance optimization and scaling
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chuan-dev086&color=0077B5" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ If you find my work interesting, consider giving some of my repos a star! It means a lot.</i>
+  
+  **Last Updated**: September 2026 | **Status**: Actively Building 🚀
+</div>
