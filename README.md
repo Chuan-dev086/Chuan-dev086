@@ -11,7 +11,7 @@
 I'm a passionate **Full Stack Developer** with expertise in building web applications from frontend to backend. I love turning ideas into elegant, functional solutions and constantly exploring new technologies to stay ahead of the curve.
 
 - 🔭 Currently working on **Local AI Chat** — A full-stack chatbot powered by Ollama + qwen2.5:7b
-- 🌱 Learning **REST API & Express.js** to build robust server-side applications
+- 🌱 Mastering **Express.js & MongoDB** to build scalable backend systems
 - 💡 Interested in **Full Stack Development, Backend Architecture, and Open Source**
 - 📫 Reach me at **choon3406@gmail.com**
 - ⚡ Fun fact: I'm a night owl developer 🦉 (best ideas come at midnight)
@@ -49,15 +49,6 @@ I'm a passionate **Full Stack Developer** with expertise in building web applica
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chuan-dev086&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuan-dev086&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
-
----
-
 ## 🏆 Featured Projects
 
 ### 1. 🔐 Password Hasher & Verifier
@@ -66,7 +57,7 @@ I'm a passionate **Full Stack Developer** with expertise in building web applica
 
 **Tech Stack**: Node.js | Express.js | bcryptjs | HTML5 | CSS3 | JavaScript
 
-**[Repository](https://github.com/Chuan-dev086/Password-Hasher)**    <-- CLick Here To View Repo 
+**[Repository](https://github.com/Chuan-dev086/Password-Hasher)** ← Click Here To View Repo
 
 **Key Features**:
 
@@ -84,8 +75,7 @@ I'm a passionate **Full Stack Developer** with expertise in building web applica
 
 **Tech Stack**: Python | tkinter | NumPy
 
-**[Repository](https://github.com/Chuan-dev086/Housing-Loan-Calculator)**  <-- CLick Here To View Repo 
-
+**[Repository](https://github.com/Chuan-dev086/Housing-Loan-Calculator)** ← Click Here To View Repo
 
 **Key Features**:
 
@@ -103,8 +93,7 @@ I'm a passionate **Full Stack Developer** with expertise in building web applica
 
 **Tech Stack**: Node.js | Express | React | Vite | Ollama (Local LLM)
 
-**[Repository](https://github.com/Chuan-dev086/Local-AI-Chat)**   <-- CLick Here To View Repo 
-
+**[Repository](https://github.com/Chuan-dev086/Local-AI-Chat)** ← Click Here To View Repo
 
 **Key Features**:
 
@@ -121,7 +110,7 @@ I'm a passionate **Full Stack Developer** with expertise in building web applica
 
 ---
 
-## 🎯 What I Can Help With
+## 🎯 What I'm Currently Doing
 
 - ✅ **Frontend Development** — Building responsive UIs with React, HTML, CSS, Bootstrap
 - ✅ **Backend Development** — Server-side logic with Node.js, Express, and Python
@@ -132,9 +121,30 @@ I'm a passionate **Full Stack Developer** with expertise in building web applica
 
 ---
 
+## 🎓 Learning Goals (Q4 2026)
+
+- ✍️ **Master Express.js Middleware Architecture**
+  - Goal: Build a production-ready authentication system
+  - Timeline: October 2026
+  - Progress: 60% (JWT basics done, testing phase now)
+
+- 🗄️ **MongoDB Advanced Queries & Indexing**
+  - Goal: Optimize Local AI Chat database queries
+  - Timeline: November 2026
+  - Expected Impact: 50% faster chat retrieval
+
+- 🔐 **Backend Security & API Best Practices**
+  - Goal: Implement rate limiting, input validation, error handling
+  - Timeline: December 2026
+  - Why: Ensure production-ready security for my APIs
+
+---
+
 ## 💬 Let's Collaborate!
 
 I'm always open to interesting projects and collaboration opportunities. Whether you have a project idea, need technical advice, or just want to chat about web development, feel free to reach out!
+
+💡 **Want to collaborate on Express.js, MongoDB, or backend security?** I'd love to learn from experienced developers! Send me a message.
 
 ---
 
@@ -163,17 +173,9 @@ I'm always open to interesting projects and collaboration opportunities. Whether
 | ------------ | ------------------------------------------------ |
 | **Frontend** | React, HTML5, CSS3, Bootstrap, Responsive Design |
 | **Backend**  | Node.js, Express.js, Python, PHP, REST APIs      |
-| **Database** | MySQL, MongoDB, Data Modeling                    |
+| **Database** | MySQL, MongoDB, Data Modeling, Query Optimization|
 | **Tools**    | Git, VS Code, Postman, Ollama                    |
 | **Concepts** | Full Stack Development, API Design, Web Security |
-
----
-
-## 🎓 Currently Learning
-
-- Deep dive into **Express.js** architecture and best practices
-- Advanced **REST API** design patterns
-- Backend performance optimization and scaling
 
 ---
 
