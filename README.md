@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with expertise in building web applications from frontend to backend. I love turning ideas into elegant, functional solutions and constantly exploring new technologies to stay ahead of the curve.
+I'm a Software Engineering Student from FORWARD COLLEGE. I currently learning Full-Stack Web Development . I love turning ideas into elegant, functional solutions and constantly exploring new technologies to stay ahead of the curve.
 
 - 🔭 Currently working on **Local AI Chat** — A full-stack chatbot powered by Ollama + qwen2.5:7b
 - 🌱 Mastering **Express.js & MongoDB** to build scalable backend systems
