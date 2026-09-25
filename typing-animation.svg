@@ -6,7 +6,7 @@
                 font-weight: bold;
                 fill: #00D4FF;
                 letter-spacing: 1px;
-                animation: typing 6s steps(32, end) infinite;
+                animation: typing 4s steps(32, end) infinite;
                 font-family: 'Courier New', monospace;
             }
             
@@ -44,7 +44,7 @@
     <rect width="900" height="200" fill="transparent"/>
     
     <!-- 打字机文本 -->
-    <text class="typing-text" x="50" y="110">👋 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 ✌𝓒𝓗𝓤𝓐𝓝 𝓞𝓞𝓘✌</text>
+    <text class="typing-text" x="50" y="110">👋 𝓗𝓲, 𝓘'𝓶 𝓒𝓗𝓤𝓐𝓝 𝓞𝓞𝓘</text>
     
     <!-- 闪烁光标 -->
     <rect class="cursor" x="850" y="70" width="3" height="55" fill="#BB86FC"/>
