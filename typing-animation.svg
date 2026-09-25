@@ -4,7 +4,7 @@
             .typing-text {
                 font-size: 48px;
                 font-weight: bold;
-                fill: #BB86FC;
+                fill: #00D4FF;
                 letter-spacing: 1px;
                 animation: typing 6s steps(32, end) infinite;
                 font-family: 'Courier New', monospace;
