@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Quietly+coding%2C+loudly+loving.%F0%9F%92%BB" alt="Quietly coding, loudly loving." />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+AI;Building+Next+Gen+Apps" alt="Typing SVG" />
-</div>
 
 ---
 
