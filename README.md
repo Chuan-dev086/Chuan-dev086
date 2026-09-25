@@ -1,4 +1,6 @@
-# 👋 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 ✌𝓒𝓗𝓤𝓐𝓝 𝓞𝓞𝓘✌
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chuan-dev086/Chuan-dev086/main/typing-animation.svg" alt="Typing Animation" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Quietly+coding%2C+loudly+loving.%F0%9F%92%BB" alt="Quietly coding, loudly loving." />
