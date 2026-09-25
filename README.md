@@ -1,22 +1,20 @@
-# 👋 Hi there, I'm ✌𝓒𝓗𝓤𝓐𝓝 𝓞𝓞𝓘✌ 
+# 👋 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 ✌𝓒𝓗𝓤𝓐𝓝 𝓞𝓞𝓘✌
 
 <div align="center">
-  <!-- 修复后的浪漫 Slogan 打字机效果 -->
-  <img src="https://demolab.com." alt="Quietly coding, loudly loving." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Quietly+coding%2C+loudly+loving.%F0%9F%92%BB" alt="Quietly coding, loudly loving." />
 </div>
 
 <div align="center">
-  <!-- 修复后的核心技能打字机效果 -->
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+AI;Building+Next+Gen+Apps" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢
 
-I'm a Software Engineering Student from FORWARD COLLEGE. I currently learning Full-Stack Web Development . I love turning ideas into elegant, functional solutions and constantly exploring new technologies to stay ahead of the curve.
+I'm a Software Engineering Student from FORWARD COLLEGE. I'm currently learning Full-Stack Web Development. I love turning ideas into elegant, functional solutions and constantly exploring new technologies to stay ahead of the curve.
 
-- 🔭 Currently working on **Local AI Chat** — A full-stack chatbot powered by Ollama + qwen2.5:7b
+- 🔭 Currently working on **Local AI Chat** — A full-stack chatbot powered by Ollama with specialized models
 - 🌱 Mastering **Express.js & MongoDB** to build scalable backend systems
 - 💡 Interested in **Full Stack Development, Backend Architecture, and Open Source**
 - 📫 Reach me at **choon3406@gmail.com**
@@ -24,38 +22,42 @@ I'm a Software Engineering Student from FORWARD COLLEGE. I currently learning Fu
 
 ---
 
-## 💻 Tech Stack
+## 💻 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
 ### Frontend
 
-<div>
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="Bootstrap" />
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material-UI" />
 </div>
 
 ### Backend
 
-<div>
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Express.js" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="PHP" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square&logo=api&logoColor=white" alt="REST API" />
 </div>
 
 ### Database & Tools
 
-<div>
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="VS Code" />
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Ollama-FF6B9D?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 𝔉𝔢𝔞𝔱𝔲𝔯𝔢𝔡 𝔓𝔯𝔬𝔧𝔢𝔠𝔱𝔰
 
 ### 1. 🔐 Password Hasher & Verifier
 
@@ -63,7 +65,7 @@ I'm a Software Engineering Student from FORWARD COLLEGE. I currently learning Fu
 
 **Tech Stack**: Node.js | Express.js | bcryptjs | HTML5 | CSS3 | JavaScript
 
-**[Repository](https://github.com)** ← Click Here To View Repo
+**[View Repository](https://github.com/Chuan-dev086/Password-Hasher-Verifier)** ← Click Here
 
 **Key Features**:
 - ✨ Industry-standard bcrypt hashing with Salt Rounds = 10
@@ -80,7 +82,7 @@ I'm a Software Engineering Student from FORWARD COLLEGE. I currently learning Fu
 
 **Tech Stack**: Python | tkinter | NumPy
 
-**[Repository](https://github.com)** ← Click Here To View Repo
+**[View Repository](https://github.com/Chuan-dev086/Housing-Loan-Calculator)** ← Click Here
 
 **Key Features**:
 - 💰 Equal principal and interest repayment (等额本息)
@@ -93,23 +95,24 @@ I'm a Software Engineering Student from FORWARD COLLEGE. I currently learning Fu
 
 ### 3. 🤖 Local AI Chat
 
-**Description**: A full-stack AI chatbot powered by Ollama + qwen2.5:7b with session-based memory and real-time inference. Completely offline, no external API calls required.
+**Description**: A full-stack AI chatbot powered by Ollama with specialized models for different chat modes. Completely offline, no external API calls required.
 
-**Tech Stack**: Node.js | Express | React | Vite | Ollama (Local LLM)
+**Tech Stack**: Node.js | Express | React | Vite | Material-UI | Ollama (Local LLM)
 
-**[Repository](https://github.com)** ← Click Here To View Repo
+**[View Repository](https://github.com/Chuan-dev086/Local-AI-chat)** ← Click Here
 
 **Key Features**:
 - 🧠 Multi-turn conversations with session-based memory
 - ⚡ Completely offline — no external API calls
 - 🎯 Real-time feedback with loading indicators
+- 🤖 Specialized models: qwen3:4b for General Chat, qwen2.5-coder:3b for Programming
 - 🔄 One-click "New Chat" for fresh conversations
 - 📦 Simple setup, ready to use in minutes
 - 🔌 Extensible architecture for custom models
 
 ---
 
-> 👀 **[View all projects on GitHub →](https://github.com)**
+> 👀 **[View all projects on GitHub →](https://github.com/Chuan-dev086)**
 
 ---
 
@@ -154,17 +157,17 @@ I'm always open to interesting projects and collaboration opportunities. Whether
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
+  <a href="https://www.instagram.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://wa.me" target="_blank">
-    <img src="https://shields.io" alt="WhatsApp" />
+  <a href="https://wa.me/60123456789" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:choon3406@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -174,16 +177,16 @@ I'm always open to interesting projects and collaboration opportunities. Whether
 
 | Category     | Skills                                           |
 | ------------ | ------------------------------------------------ |
-| **Frontend** | React, HTML5, CSS3, Bootstrap, Responsive Design |
-| **Backend**  | Node.js, Express.js, Python, PHP, REST APIs      |
+| **Frontend** | React, HTML5, CSS3, Bootstrap, Responsive Design, Vite, Material-UI |
+| **Backend**  | Node.js, Express.js, Python, PHP, REST APIs, Ollama |
 | **Database** | MySQL, MongoDB, Data Modeling, Query Optimization|
-| **Tools**    | Git, VS Code, Postman, Ollama                    |
+| **Tools**    | Git, VS Code, Postman, Ollama, Axios            |
 | **Concepts** | Full Stack Development, API Design, Web Security |
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Chuan-dev086&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
