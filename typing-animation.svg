@@ -6,7 +6,7 @@
                 font-weight: bold;
                 fill: #BB86FC;
                 letter-spacing: 1px;
-                animation: typing 8s steps(32, end) infinite;
+                animation: typing 6s steps(32, end) infinite;
                 font-family: 'Courier New', monospace;
             }
             
