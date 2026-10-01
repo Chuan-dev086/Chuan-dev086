@@ -156,13 +156,13 @@ I'm always open to interesting projects and collaboration opportunities. Whether
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/han-chuan-ooi-bb93023a5/?isSelfProfile=true)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://wa.me/60123456789" target="_blank">
+  <a href="https://wa.me/601123816083" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:choon3406@gmail.com">
