@@ -156,11 +156,14 @@ I'm always open to interesting projects and collaboration opportunities. Whether
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/han-chuan-ooi-bb93023a5/?isSelfProfile=true)" target="_blank">
+  <a href="https://www.linkedin.com/in/han-chuan-ooi-bb93023a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/yourprofile" target="_blank">
+  <a href="https://www.instagram.com/ooihanchuan/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Chuan-dev086" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://wa.me/601123816083" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -181,12 +184,6 @@ I'm always open to interesting projects and collaboration opportunities. Whether
 | **Database** | MySQL, MongoDB, Data Modeling, Query Optimization|
 | **Tools**    | Git, VS Code, Postman, Ollama, Axios            |
 | **Concepts** | Full Stack Development, API Design, Web Security |
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chuan-dev086&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
 ---
 
